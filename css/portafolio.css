@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    color: #212121;
+    font-style: normal;
+}
+
+.logo {
+    width: 145px;
+    height: 31px;
+    font-family: 'Raleway';    
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    color: #2196F3;
+    text-decoration: none;
+}
+
+.nav-links .link {
+    font-family: 'Roboto';    
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    color: #212121;
+    text-decoration: none;
+}
+.nav-links .link:hover {
+    color: #2196F3;
+}
+button {
+    font-family: 'Roboto';   
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    color:#FFFFFF;
+    background-color: #2196F3;
+    cursor: pointer;
+}
+
+.briefcase h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    color: #212121;
+}
+
+.briefcase p {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.9;
+    color: #757575;
+}
+
+footer {
+    background-color: #2F303A;
+}
+
+.address .map {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-style: normal;
+}
+.address .link{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.7px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-style: normal;
+}
